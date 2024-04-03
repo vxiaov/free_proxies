@@ -98,7 +98,7 @@ proxies:
   - {"name":"SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-38.68.134.9:8009","type":"ss","server":"38.68.134.9","port":8009,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-167.88.61.175:5000","type":"ss","server":"167.88.61.175","port":5000,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-38.68.135.18:5500","type":"ss","server":"38.68.135.18","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-  - {"name":"VMESS-美国:荷兰-自制NF-ChatGPT-TikTok-YouTubePrem-172.67.187.109:80","type":"vmess","server":"172.67.187.109","port":80,"uuid":"2e87cebc-977b-4fec-b079-b1ddc55b19c8","alterId":0,"cipher":"auto","network":"ws","http-opts":{},"h2-opts":{},"skip-cert-verify":true,"ws-opts":{"path":"/vmess","headers":{"host":"ee1.xv2ray.net"}}}
+  - {"name":"VMESS-美国:瑞典-自制NF-ChatGPT-TikTok-YouTubePrem-172.67.187.109:80","type":"vmess","server":"172.67.187.109","port":80,"uuid":"2e87cebc-977b-4fec-b079-b1ddc55b19c8","alterId":0,"cipher":"auto","network":"ws","http-opts":{},"h2-opts":{},"skip-cert-verify":true,"ws-opts":{"path":"/vmess","headers":{"host":"ee1.xv2ray.net"}}}
   - {"name":"SS-加拿大:美国-自制NF-ChatGPT-TikTok-YouTubePrem-134.195.196.178:800","type":"ss","server":"134.195.196.178","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-38.107.226.132:3389","type":"ss","server":"38.107.226.132","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-167.88.61.175:5500","type":"ss","server":"167.88.61.175","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
@@ -146,7 +146,7 @@ proxies:
   - {"name":"SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-38.121.43.97:2376","type":"ss","server":"38.121.43.97","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-38.121.43.97:8080","type":"ss","server":"38.121.43.97","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-38.75.136.139:8080","type":"ss","server":"38.75.136.139","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-  - {"name":"VMESS-未知:美国-自制NF-ChatGPT-TikTok-YouTubePrem-u04.tk3322.com:2053","type":"vmess","server":"u04.tk3322.com","port":2053,"uuid":"bfccd2a4-a421-4d4f-f564-a081f4a12d7e","alterId":0,"cipher":"auto","network":"ws","servername":"u04.tk3322.com","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true,"ws-opts":{"path":"/u04","headers":{"HOST":"u04.tk3322.com"}}}
+  - {"name":"VMESS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-u04.tk3322.com:2053","type":"vmess","server":"u04.tk3322.com","port":2053,"uuid":"bfccd2a4-a421-4d4f-f564-a081f4a12d7e","alterId":0,"cipher":"auto","network":"ws","servername":"u04.tk3322.com","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true,"ws-opts":{"path":"/u04","headers":{"HOST":"u04.tk3322.com"}}}
   - {"name":"SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-38.75.137.93:8008","type":"ss","server":"38.75.137.93","port":8008,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-38.75.137.93:8009","type":"ss","server":"38.75.137.93","port":8009,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-38.68.135.18:3389","type":"ss","server":"38.68.135.18","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
