@@ -11,8 +11,8 @@
 ## Clash订阅节点更新地址
 > 代理节点包含ss/ssr/vmess,均来源于网络
 
-- Clash订阅地址(使用CDN链接,有延迟): https://cdn.jsdelivr.net/gh/vxiaov/free_proxy_ss@main/clash/clash.provider.yaml
-- Clash订阅地址(原地址，需要通过代理访问): https://raw.githubusercontent.com/vxiaov/free_proxy_ss/main/clash/clash.provider.yaml
+- Clash订阅地址(使用CDN链接,有延迟): https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml
+- Clash订阅地址(原地址，需要通过代理访问): https://raw.githubusercontent.com/vxiaov/free_proxies/main/clash/clash.provider.yaml
 
 ## 科普：免费节点如何测试可用？
 
