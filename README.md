@@ -9,10 +9,11 @@
 可以订阅 [@free_proxy_001](https://t.me/free_proxy_001) Telegram电报频道和讨论组。
 
 ## Clash订阅节点更新地址
-> 代理节点包含ss/ssr/vmess,均来源于网络
+> 代理节点包含ss/ssr/vmess,均来源于网络，如果更新时间比较长(通常一天之内)，可能是当前节点列表都还有效而没有更新（并不是不更新了).
 
 - Clash订阅地址(使用CDN链接,有延迟): https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml
 - Clash订阅地址(原地址，需要通过代理访问): https://raw.githubusercontent.com/vxiaov/free_proxies/main/clash/clash.provider.yaml
+
 
 ## 科普：免费节点如何测试可用？
 
