@@ -122,3 +122,4 @@ proxies:
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-139.64.165.151:8080","type":"ss","server":"139.64.165.151","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-142.202.49.84:8008","type":"ss","server":"142.202.49.84","port":8008,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-69.50.95.53:3306","type":"ss","server":"69.50.95.53","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+  - {"name":"VMESS-未知\u003e法国-NF解锁法国地区非自制剧-ChatGPT-TikTok-YouTube-104.21.94.168:80","type":"vmess","server":"104.21.94.168","port":80,"uuid":"4804f14b-c1f8-452d-a6ec-eff1490aeac9","alterId":0,"cipher":"auto","network":"ws","servername":"hdfy6c1.freelines.net","http-opts":{},"h2-opts":{},"skip-cert-verify":true,"ws-opts":{"path":"/lRkGCkYS9X5GDNJYMWXN7kCm3lL","headers":{"HOST":"hdfy6c1.freelines.net"}}}
