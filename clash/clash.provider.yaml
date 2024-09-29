@@ -131,3 +131,4 @@ proxies:
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-69.50.95.53:7307","type":"ss","server":"69.50.95.53","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.110.1.46:6679","type":"ss","server":"38.110.1.46","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-142.202.49.122:8118","type":"ss","server":"142.202.49.122","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+  - {"name":"VMESS-未知\u003e美国-NF解锁自制剧-ChatGPT-TikTok-104.19.45.104:2095","type":"vmess","server":"104.19.45.104","port":2095,"uuid":"7a737f41-b792-4260-94ff-3d864da67b80","alterId":0,"cipher":"auto","network":"ws","servername":"onea.flha.ru","http-opts":{},"h2-opts":{},"skip-cert-verify":true,"ws-opts":{"path":"/","headers":{"HOST":"onea.flha.ru"}}}
