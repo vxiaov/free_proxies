@@ -78,6 +78,7 @@ proxies:
   - {"name":"VMESS-未知\u003e美国-NF解锁加拿大自制剧-ChatGPT-TikTok-YouTube-104.19.45.42:2082","type":"vmess","server":"104.19.45.42","port":2082,"uuid":"5f3f09ad-89cb-4e94-a7ad-aa8239913555","alterId":0,"cipher":"auto","network":"ws","servername":"ip19.6929198.xyz","http-opts":{},"h2-opts":{},"ws-opts":{"path":"github.com/Alvin9999","headers":{"Host":"ip19.6929198.xyz"}}}
   - {"name":"VMESS-未知\u003e美国-NF解锁加拿大自制剧-ChatGPT-TikTok-YouTube-104.19.46.103:2082","type":"vmess","server":"104.19.46.103","port":2082,"uuid":"5f3f09ad-89cb-4e94-a7ad-aa8239913555","alterId":0,"cipher":"auto","network":"ws","servername":"ip19.6929198.xyz","http-opts":{},"h2-opts":{},"ws-opts":{"path":"github.com/Alvin9999","headers":{"Host":"ip19.6929198.xyz"}}}
   - {"name":"VMESS-未知\u003e美国-NF解锁加拿大自制剧-ChatGPT-TikTok-YouTube-104.19.58.175:2082","type":"vmess","server":"104.19.58.175","port":2082,"uuid":"5f3f09ad-89cb-4e94-a7ad-aa8239913555","alterId":0,"cipher":"auto","network":"ws","servername":"ip19.6929198.xyz","http-opts":{},"h2-opts":{},"ws-opts":{"path":"github.com/Alvin9999","headers":{"Host":"ip19.6929198.xyz"}}}
+  - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-67.220.72.41:20002","type":"ss","server":"67.220.72.41","port":20002,"password":"̈́m͒ߍM֡Tyۙҫ1͛P̎","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-167.88.61.111:8090","type":"ss","server":"167.88.61.111","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.75.137.42:2375","type":"ss","server":"38.75.137.42","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-ChatGPT-TikTok-YouTube-38.75.137.42:3389","type":"ss","server":"38.75.137.42","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
@@ -89,7 +90,6 @@ proxies:
   - {"name":"SS-英国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-141.98.101.179:443","type":"ss","server":"141.98.101.179","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.110.1.51:8090","type":"ss","server":"38.110.1.51","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
   - {"name":"SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-162.19.25.207:34232","type":"ss","server":"162.19.25.207","port":34232,"password":"3b9ktZGztC","cipher":"aes-256-gcm"}
-  - {"name":"SS-美国-NF解锁自制剧-ChatGPT-YouTube-169.197.141.84:443","type":"ss","server":"169.197.141.84","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
   - {"name":"SS-英国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-141.98.101.178:443","type":"ss","server":"141.98.101.178","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
   - {"name":"SS-法国-NF解锁法国地区非自制剧-ChatGPT-TikTok-YouTube-94.228.162.68:47961","type":"ss","server":"94.228.162.68","port":47961,"password":"0lliCPH0Wyhq1ULhJ7Gznu","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.110.1.203:6697","type":"ss","server":"38.110.1.203","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
