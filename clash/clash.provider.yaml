@@ -96,3 +96,4 @@ proxies:
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-69.50.92.110:8118","type":"ss","server":"69.50.92.110","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
   - {"name":"VMESS-未知\u003e新加坡-NF解锁新加坡地区非自制剧-ChatGPT-TikTok-YouTube-172.67.213.19:8080","type":"vmess","server":"172.67.213.19","port":8080,"uuid":"237c632a-8ac0-4040-ab02-adbc3b9e6610","alterId":0,"cipher":"auto","network":"ws","servername":"de-new01.daluquan.top","http-opts":{},"h2-opts":{},"skip-cert-verify":true,"ws-opts":{"path":"/","headers":{"HOST":"de-new01.daluquan.top"}}}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.114.114.143:7002","type":"ss","server":"38.114.114.143","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
+  - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.114.114.143:2376","type":"ss","server":"38.114.114.143","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
