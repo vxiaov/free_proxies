@@ -54,3 +54,9 @@ proxies:
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.110.1.105:8000","type":"ss","server":"38.110.1.105","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.110.1.105:9102","type":"ss","server":"38.110.1.105","port":9102,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
   - {"name":"VMESS-未知\u003e俄罗斯联邦-ChatGPT-TikTok-YouTube-mqq.kovmk.website:443","type":"vmess","server":"mqq.kovmk.website","port":443,"uuid":"fccd6de1-8eee-4286-9f0b-bfd82859104e","alterId":0,"cipher":"auto","network":"ws","servername":"mqq.kovmk.website","http-opts":{},"h2-opts":{},"tls":true,"ws-opts":{"path":"/","headers":{"Host":"mqq.kovmk.website"}}}
+  - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.110.1.105:8118","type":"ss","server":"38.110.1.105","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+  - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.110.1.105:9090","type":"ss","server":"38.110.1.105","port":9090,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+  - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.110.1.105:8119","type":"ss","server":"38.110.1.105","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+  - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.75.136.117:2376","type":"ss","server":"38.75.136.117","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+  - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.110.1.105:8009","type":"ss","server":"38.110.1.105","port":8009,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
+  - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.110.1.105:5601","type":"ss","server":"38.110.1.105","port":5601,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
