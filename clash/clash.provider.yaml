@@ -58,7 +58,6 @@ proxies:
   - {"name":"SS-美国-ChatGPT-TikTok-YouTube-154.3.8.151:30067","type":"ss","server":"154.3.8.151","port":30067,"password":"iUB0923RBA","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:9090","type":"ss","server":"15.204.87.225","port":9090,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.217:8000","type":"ss","server":"15.204.87.217","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-  - {"name":"SS-英国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-141.98.101.182:443","type":"ss","server":"141.98.101.182","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
   - {"name":"SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.62:54314","type":"ss","server":"150.241.95.62","port":54314,"password":"\u0026lmOhLJw-0","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-37.19.198.160:443","type":"ss","server":"37.19.198.160","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
   - {"name":"VMESS-未知\u003e美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-172.64.99.22:2082","type":"vmess","server":"172.64.99.22","port":2082,"uuid":"5f3f09ad-89cb-4e94-a7ad-aa8239913555","alterId":0,"cipher":"auto","network":"ws","servername":"ip28.6929198.xyz","http-opts":{},"h2-opts":{},"ws-opts":{"path":"github.com/Alvin9999","headers":{"Host":"ip28.6929198.xyz"}}}
@@ -91,3 +90,5 @@ proxies:
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-142.202.49.68:5000","type":"ss","server":"142.202.49.68","port":5000,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-54.187.244.22:443","type":"ssr","server":"54.187.244.22","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.114.114.143:2376","type":"ss","server":"38.114.114.143","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+  - {"name":"VMESS-未知\u003e瑞士-NF解锁自制剧-ChatGPT-TikTok-YouTube-dmybj.kovmk.website:443","type":"vmess","server":"dmybj.kovmk.website","port":443,"uuid":"09c2a9db-b133-417e-910a-066ec3f35930","alterId":0,"cipher":"auto","network":"ws","servername":"dmybj.kovmk.website","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true,"ws-opts":{"path":"/","headers":{"HOST":"dmybj.kovmk.website"}}}
+  - {"name":"SS-爱尔兰-NF解锁爱尔兰自制剧-ChatGPT-TikTok-YouTube-52.169.217.145:13832","type":"ss","server":"52.169.217.145","port":13832,"password":"SaKH2gJcsbr6UzHEzPBz41","cipher":"chacha20-ietf-poly1305"}
