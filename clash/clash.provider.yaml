@@ -94,3 +94,4 @@ proxies:
   - {"name":"SSR-美国-NF解锁自制剧-TikTok-YouTube-54.213.164.80:443","type":"ssr","server":"54.213.164.80","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-54.191.9.106:443","type":"ssr","server":"54.191.9.106","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"VMESS-未知\u003e美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-172.64.167.29:2082","type":"vmess","server":"172.64.167.29","port":2082,"uuid":"5f3f09ad-89cb-4e94-a7ad-aa8239913555","alterId":0,"cipher":"auto","network":"ws","servername":"ip28.6929198.xyz","http-opts":{},"h2-opts":{},"ws-opts":{"path":"github.com/Alvin9999","headers":{"Host":"ip28.6929198.xyz"}}}
+  - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-34.209.103.254:443","type":"ssr","server":"34.209.103.254","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
