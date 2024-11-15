@@ -95,3 +95,4 @@ proxies:
   - {"name":"VMESS-未知\u003e美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.5.113:2082","type":"vmess","server":"104.26.5.113","port":2082,"uuid":"5f3f09ad-89cb-4e94-a7ad-aa8239913555","alterId":0,"cipher":"auto","network":"ws","servername":"ip18.6929198.xyz","http-opts":{},"h2-opts":{},"ws-opts":{"path":"/github.com/Alvin9999","headers":{"Host":"ip18.6929198.xyz"}}}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-142.202.48.105:5004","type":"ss","server":"142.202.48.105","port":5004,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-142.202.49.122:9102","type":"ss","server":"142.202.49.122","port":9102,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+  - {"name":"SS-英国-TikTok-89.185.84.185:12575","type":"ss","server":"89.185.84.185","port":12575,"password":"gdt6FA0fOR3pBQdFcyHyfv","cipher":"chacha20-ietf-poly1305"}
