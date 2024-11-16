@@ -97,4 +97,4 @@ proxies:
   - {"name":"SS-立陶宛\u003e荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-45.87.175.188:8080","type":"ss","server":"45.87.175.188","port":8080,"password":"4a2rfixophdjffa8KVA4Aa","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-立陶宛\u003e荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-45.87.175.157:8080","type":"ss","server":"45.87.175.157","port":8080,"password":"cvII85TrW6n0OGyfpHVS1u","cipher":"chacha20-ietf-poly1305"}
   - {"name":"VMESS-未知\u003e美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.19.38.11:2082","type":"vmess","server":"104.19.38.11","port":2082,"uuid":"5f3f09ad-89cb-4e94-a7ad-aa8239913555","alterId":0,"cipher":"auto","network":"ws","http-opts":{},"h2-opts":{},"skip-cert-verify":true,"ws-opts":{"path":"github.com/Alvin9999","headers":{"Host":"ip6.6929198.xyz"}}}
-  - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-34.217.179.211:443","type":"ssr","server":"34.217.179.211","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+  - {"name":"SSR-荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-109.201.152.181:443","type":"ssr","server":"109.201.152.181","port":443,"password":"shadowsocks","cipher":"aes-128-cfb","protocol":"origin","obfs":"plain"}
