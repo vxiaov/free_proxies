@@ -98,3 +98,4 @@ proxies:
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-142.202.48.105:5003","type":"ss","server":"142.202.48.105","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
   - {"name":"SS-荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-195.74.86.162:443","type":"ss","server":"195.74.86.162","port":443,"password":"U2EIOHS5CMFms1vO5IhbJW","cipher":"chacha20-ietf-poly1305"}
   - {"name":"VMESS-未知\u003e英国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-anaviriti.info:443","type":"vmess","server":"anaviriti.info","port":443,"uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":1,"cipher":"auto","network":"ws","servername":"anaviriti.info","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true,"ws-opts":{"path":"linkvws","headers":{"HOST":"anaviriti.info"}}}
+  - {"name":"SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-62.210.88.22:443","type":"ss","server":"62.210.88.22","port":443,"password":"cjlNhDAZQMuDH6MI8F0E6m","cipher":"chacha20-ietf-poly1305"}
