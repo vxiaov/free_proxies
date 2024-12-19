@@ -43,6 +43,7 @@ proxies:
   - {"name":"SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:6679","type":"ss","server":"54.37.18.75","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.217:8000","type":"ss","server":"15.204.87.217","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
   - {"name":"SSR-美国\u003e塞舌尔-NF解锁自制剧-ChatGPT-TikTok-YouTube-137.175.113.215:8388","type":"ssr","server":"137.175.113.215","port":8388,"password":"asd123456","cipher":"chacha20-ietf","protocol":"origin","obfs":"plain"}
+  - {"name":"SSR-美国-ChatGPT-TikTok-54.200.220.184:443","type":"ssr","server":"54.200.220.184","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-35.94.51.2:443","type":"ssr","server":"35.94.51.2","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-79.110.53.169:8080","type":"ssr","server":"79.110.53.169","port":8080,"password":"14fFPrbezE3HDZzsMOr6","cipher":"rc4-md5","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-52.89.164.115:443","type":"ssr","server":"52.89.164.115","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
@@ -72,3 +73,6 @@ proxies:
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.110.1.252:8119","type":"ss","server":"38.110.1.252","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.110.1.252:7306","type":"ss","server":"38.110.1.252","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.110.1.252:443","type":"ss","server":"38.110.1.252","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
+  - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.68.135.138:5004","type":"ss","server":"38.68.135.138","port":5004,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+  - {"name":"SSR-美国-YouTube-34.222.132.123:443","type":"ssr","server":"34.222.132.123","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+  - {"name":"SSR-美国-54.184.77.199:443","type":"ssr","server":"54.184.77.199","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
