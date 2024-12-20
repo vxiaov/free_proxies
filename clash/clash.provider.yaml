@@ -55,9 +55,5 @@ proxies:
   - {"name":"SSR-危地马拉-NF解锁危地马拉自制剧-ChatGPT-YouTube-170.80.111.5:989","type":"ssr","server":"170.80.111.5","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SS-新加坡-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-109.120.138.94:10851","type":"ss","server":"109.120.138.94","port":10851,"password":"O4D8WTvkvIALxm+8sIH2rgpXizdNVcqjbcN0O1Rl9KQ=","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-149.34.244.77:443","type":"ss","server":"149.34.244.77","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
-  - {"name":"VMESS-美国\u003e瑞典-NF解锁瑞典自制剧-TikTok-live.theworldwidewolf.com:443","type":"vmess","server":"live.theworldwidewolf.com","port":443,"uuid":"6a90d871-e429-451c-a32d-1f4ed412e256","alterId":0,"cipher":"auto","network":"ws","servername":"freepanelll.com","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true,"ws-opts":{"path":"ws/?ed=2048","headers":{"HOST":"freepanelll.com"}}}
-  - {"name":"SSR-美国-NF解锁自制剧-TikTok-YouTube-54.184.77.199:443","type":"ssr","server":"54.184.77.199","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-  - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-52.89.164.115:443","type":"ssr","server":"52.89.164.115","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-  - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-35.88.126.102:443","type":"ssr","server":"35.88.126.102","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-54.70.176.73:443","type":"ssr","server":"54.70.176.73","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-  - {"name":"SS-美国-NF解锁香港自制剧-ChatGPT-TikTok-YouTube-154.3.8.151:30067","type":"ss","server":"154.3.8.151","port":30067,"password":"iUB0923RBA","cipher":"aes-256-gcm"}
+  - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-54.200.220.184:443","type":"ssr","server":"54.200.220.184","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
