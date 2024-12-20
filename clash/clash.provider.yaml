@@ -59,3 +59,4 @@ proxies:
   - {"name":"SS-荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-149.34.244.77:443","type":"ss","server":"149.34.244.77","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
   - {"name":"SS-英国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-uk-dc1.yangon.club:443","type":"ss","server":"uk-dc1.yangon.club","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
   - {"name":"VMESS-美国\u003e瑞典-NF解锁瑞典自制剧-TikTok-live.theworldwidewolf.com:443","type":"vmess","server":"live.theworldwidewolf.com","port":443,"uuid":"6a90d871-e429-451c-a32d-1f4ed412e256","alterId":0,"cipher":"auto","network":"ws","servername":"freepanelll.com","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true,"ws-opts":{"path":"ws/?ed=2048","headers":{"HOST":"freepanelll.com"}}}
+  - {"name":"SSR-美国-NF解锁自制剧-TikTok-YouTube-35.88.126.102:443","type":"ssr","server":"35.88.126.102","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
