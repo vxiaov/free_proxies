@@ -57,3 +57,6 @@ proxies:
   - {"name":"SS-美国-NF解锁香港自制剧-ChatGPT-TikTok-YouTube-154.3.8.151:30067","type":"ss","server":"154.3.8.151","port":30067,"password":"iUB0923RBA","cipher":"aes-256-gcm"}
   - {"name":"SSR-美国-TikTok-YouTube-34.222.136.128:443","type":"ssr","server":"34.222.136.128","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-美国-TikTok-52.89.164.115:443","type":"ssr","server":"52.89.164.115","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+  - {"name":"SSR-美国-NF解锁自制剧-35.161.59.194:443","type":"ssr","server":"35.161.59.194","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+  - {"name":"SSR-美国-ChatGPT-YouTube-54.244.200.142:443","type":"ssr","server":"54.244.200.142","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+  - {"name":"VMESS-美国\u003e德国-NF解锁德国自制剧-ChatGPT-TikTok-YouTube-151.101.128.155:80","type":"vmess","server":"151.101.128.155","port":80,"uuid":"03231e6e-2251-498b-8e0a-6ab9222309ef","alterId":0,"cipher":"auto","network":"ws","servername":"banknabi-mahdi313.IR.","http-opts":{},"h2-opts":{},"skip-cert-verify":true,"ws-opts":{"path":"/?ed=80/#id-telegram:---\u003e@vpn_whal\u003c---","headers":{"HOST":"banknabi-mahdi313.IR."}}}
