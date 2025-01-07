@@ -49,7 +49,6 @@ proxies:
   - {"name":"SS-瑞典-NF解锁瑞典自制剧-ChatGPT-TikTok-YouTube-46.246.98.155:44013","type":"ss","server":"46.246.98.155","port":44013,"password":"UDcjYQ6Z6AIWxViZpqyOmO","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-伊朗-NF解锁法国地区非自制剧-ChatGPT-YouTube-213.176.66.228:24495","type":"ss","server":"213.176.66.228","port":24495,"password":"S4zMnpKP9W8PtF7o5kCzGW","cipher":"chacha20-ietf-poly1305"}
   - {"name":"VMESS-未知\u003e新加坡-NF解锁新加坡自制剧-ChatGPT-TikTok-YouTube-cf-vod.nimo.tv:80","type":"vmess","server":"cf-vod.nimo.tv","port":80,"uuid":"3a18edb8-80c1-4cba-b912-4f10513da259","alterId":0,"cipher":"auto","network":"ws","servername":"ovh.reonolimits.my.id","http-opts":{},"h2-opts":{},"skip-cert-verify":true,"ws-opts":{"path":"/vmessws","headers":{"HOST":"ovh.reonolimits.my.id"}}}
-  - {"name":"SSR-美国-NF解锁自制剧-TikTok-35.85.36.208:443","type":"ssr","server":"35.85.36.208","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-35.85.33.177:443","type":"ssr","server":"35.85.33.177","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-54.69.180.74:443","type":"ssr","server":"54.69.180.74","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-35.92.45.179:443","type":"ssr","server":"35.92.45.179","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
