@@ -55,5 +55,6 @@ proxies:
   - {"name":"SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-62.210.88.22:443","type":"ss","server":"62.210.88.22","port":443,"password":"CjRl817CxXpVJ0j2nhJRWa","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-立陶宛\u003e荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-45.87.175.157:8080","type":"ss","server":"45.87.175.157","port":8080,"password":"4a2rfixophdjffa8KVA4Aa","cipher":"chacha20-ietf-poly1305"}
   - {"name":"VMESS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-166.88.159.225:40552","type":"vmess","server":"166.88.159.225","port":40552,"uuid":"b2046b87-f353-466d-a9ab-351067760764","alterId":0,"cipher":"auto","network":"ws","http-opts":{},"h2-opts":{},"skip-cert-verify":true,"ws-opts":{"path":"/"}}
+  - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-34.213.242.165:443","type":"ssr","server":"34.213.242.165","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SS-立陶宛\u003e荷兰-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-45.87.175.166:8080","type":"ss","server":"45.87.175.166","port":8080,"password":"4a2rfixophdjffa8KVA4Aa","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-34.222.136.128:443","type":"ssr","server":"34.222.136.128","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
