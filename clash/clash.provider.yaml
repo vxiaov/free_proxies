@@ -52,4 +52,4 @@ proxies:
   - {"name":"SSR-美国-TikTok-35.85.36.208:443","type":"ssr","server":"35.85.36.208","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-52.32.68.164:443","type":"ssr","server":"52.32.68.164","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-nsus3.irundns.net:443","type":"ssr","server":"nsus3.irundns.net","port":443,"password":"+asd6a5s5df+","cipher":"aes-128-cfb","protocol":"auth_aes128_md5","obfs":"http_post"}
-  - {"name":"SSR-美国-NF解锁自制剧-TikTok-35.85.33.177:443","type":"ssr","server":"35.85.33.177","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+  - {"name":"SSR-美国-34.222.132.123:443","type":"ssr","server":"34.222.132.123","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
