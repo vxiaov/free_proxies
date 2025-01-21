@@ -9,7 +9,6 @@ proxies:
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.217:8000","type":"ss","server":"15.204.87.217","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.207.155.64:1633","type":"ss","server":"104.207.155.64","port":1633,"password":"o_A7inN1yqeWtOTL","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.215:8882","type":"ss","server":"15.204.87.215","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
-  - {"name":"SS-美国-NF解锁加拿大自制剧-TikTok-YouTube-23.154.136.247:2376","type":"ss","server":"23.154.136.247","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-107.175.96.74:16899","type":"ss","server":"107.175.96.74","port":16899,"password":"Yc2CtrIz8L","cipher":"aes-128-gcm"}
   - {"name":"VMESS-英国-NF解锁自制剧-ChatGPT-TikTok-YouTube-5.39.254.196:23985","type":"vmess","server":"5.39.254.196","port":23985,"uuid":"398ce84e-4849-4e5f-9b1a-a56fbe233b81","alterId":0,"cipher":"auto","network":"ws","http-opts":{},"h2-opts":{},"skip-cert-verify":true,"ws-opts":{"path":"/"}}
   - {"name":"VMESS-未知\u003e新加坡-NF解锁新加坡自制剧-ChatGPT-TikTok-YouTube-104.17.213.241:80","type":"vmess","server":"104.17.213.241","port":80,"uuid":"e6543319-0574-42ac-b778-1c4325d626f5","alterId":0,"cipher":"auto","network":"ws","servername":"chunchuan.kejixiaoqi666.store","http-opts":{},"h2-opts":{},"skip-cert-verify":true,"ws-opts":{"path":"/","headers":{"HOST":"chunchuan.kejixiaoqi666.store"}}}
@@ -48,3 +47,5 @@ proxies:
   - {"name":"SS-墨西哥-ChatGPT-147.78.1.27:990","type":"ss","server":"147.78.1.27","port":990,"password":"f8f7aCzcPKbsF8p3","cipher":"chacha20-ietf-poly1305"}
   - {"name":"VMESS-未知\u003e新加坡-NF解锁新加坡自制剧-TikTok-YouTube-104.17.221.248:80","type":"vmess","server":"104.17.221.248","port":80,"uuid":"e6543319-0574-42ac-b778-1c4325d626f5","alterId":0,"cipher":"auto","network":"ws","servername":"chunchuan.kejixiaoqi666.store","http-opts":{},"h2-opts":{},"skip-cert-verify":true,"ws-opts":{"path":"/","headers":{"HOST":"chunchuan.kejixiaoqi666.store"}}}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-35.94.25.109:443","type":"ssr","server":"35.94.25.109","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+  - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-54.202.6.21:443","type":"ssr","server":"54.202.6.21","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+  - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-54.212.56.181:443","type":"ssr","server":"54.212.56.181","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
