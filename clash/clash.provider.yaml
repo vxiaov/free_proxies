@@ -4,7 +4,6 @@ proxies:
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.217:8118","type":"ss","server":"15.204.87.217","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.217:5499","type":"ss","server":"15.204.87.217","port":5499,"password":"lGqs95QkFHo2NV","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.217:5498","type":"ss","server":"15.204.87.217","port":5498,"password":"lGqs95QkFHo2NV","cipher":"aes-256-gcm"}
-  - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.217:3306","type":"ss","server":"15.204.87.217","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.215:5001","type":"ss","server":"15.204.87.215","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.217:6697","type":"ss","server":"15.204.87.217","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.217:3389","type":"ss","server":"15.204.87.217","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
@@ -50,3 +49,5 @@ proxies:
   - {"name":"VMESS-德国-NF解锁自制剧-5.39.252.204:17926","type":"vmess","server":"5.39.252.204","port":17926,"uuid":"252a0340-58ae-4c15-8622-387ba7ef0cd5","alterId":0,"cipher":"auto","network":"ws","http-opts":{},"h2-opts":{},"skip-cert-verify":true,"ws-opts":{"path":"/"}}
   - {"name":"SSR-美国-NF解锁自制剧-TikTok-YouTube-35.167.62.123:443","type":"ssr","server":"35.167.62.123","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SS-荷兰-ChatGPT-TikTok-YouTube-109.104.154.146:33333","type":"ss","server":"109.104.154.146","port":33333,"password":"dongtaiwang.com","cipher":"aes-256-gcm"}
+  - {"name":"SS-法国-ChatGPT-54.37.18.75:5499","type":"ss","server":"54.37.18.75","port":5499,"password":"lGqs95QkFHo2NV","cipher":"aes-256-gcm"}
+  - {"name":"SSR-美国-TikTok-YouTube-54.212.56.181:443","type":"ssr","server":"54.212.56.181","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
