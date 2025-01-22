@@ -55,4 +55,4 @@ proxies:
   - {"name":"SS-波兰-NF解锁波兰地区非自制剧-ChatGPT-TikTok-YouTube-45.144.48.63:57456","type":"ss","server":"45.144.48.63","port":57456,"password":"d3837224ed465f00","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-193.29.139.179:8080","type":"ss","server":"193.29.139.179","port":8080,"password":"4a2rfixophdjffa8KVA4Aa","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-54.190.19.18:443","type":"ssr","server":"54.190.19.18","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-  - {"name":"SSR-美国-137.175.113.193:8388","type":"ssr","server":"137.175.113.193","port":8388,"password":"asd123456","cipher":"chacha20-ietf","protocol":"origin","obfs":"plain"}
+  - {"name":"SSR-美国-NF解锁自制剧-54.187.174.202:443","type":"ssr","server":"54.187.174.202","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
