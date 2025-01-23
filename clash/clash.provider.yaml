@@ -26,6 +26,7 @@ proxies:
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.107.226.238:2375","type":"ss","server":"38.107.226.238","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
   - {"name":"VMESS-未知\u003e土耳其-NF解锁土耳其自制剧-104.16.204.178:8080","type":"vmess","server":"104.16.204.178","port":8080,"uuid":"0f3038a6-d719-11ef-8ad9-d76441ea5f9c","alterId":0,"cipher":"auto","network":"ws","servername":"mojiids.emadgraphic.us.kg","http-opts":{},"h2-opts":{},"skip-cert-verify":true,"ws-opts":{"path":"/tr5.vpnjantit.com/vpnjantit","headers":{"HOST":"mojiids.emadgraphic.us.kg"}}}
   - {"name":"SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-185.234.64.35:8388","type":"ss","server":"185.234.64.35","port":8388,"password":"ZWRiM2Ix","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-216.219.94.174:17126","type":"ss","server":"216.219.94.174","port":17126,"password":"vQHdEG9QVObULwSsoBzT05","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.217:8000","type":"ss","server":"15.204.87.217","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
   - {"name":"SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-62.210.88.22:443","type":"ss","server":"62.210.88.22","port":443,"password":"p83TBcPBdI6RnXN9VCjJt7","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-美国-NF解锁香港自制剧-ChatGPT-TikTok-YouTube-154.3.8.151:30067","type":"ss","server":"154.3.8.151","port":30067,"password":"iUB0923RBA","cipher":"aes-256-gcm"}
