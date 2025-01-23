@@ -27,6 +27,7 @@ proxies:
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.217:6379","type":"ss","server":"15.204.87.217","port":6379,"password":"zDNVedRFPQexG9v","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.217:2375","type":"ss","server":"15.204.87.217","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.217:5500","type":"ss","server":"15.204.87.217","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+  - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-107.175.96.74:16899","type":"ss","server":"107.175.96.74","port":16899,"password":"Yc2CtrIz8L","cipher":"aes-128-gcm"}
   - {"name":"SSR-墨西哥-NF解锁墨西哥自制剧-ChatGPT-TikTok-YouTube-147.78.1.27:989","type":"ssr","server":"147.78.1.27","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.217:5498","type":"ss","server":"15.204.87.217","port":5498,"password":"lGqs95QkFHo2NV","cipher":"aes-256-gcm"}
   - {"name":"VMESS-未知\u003e新加坡-NF解锁新加坡自制剧-ChatGPT-TikTok-YouTube-104.17.221.248:80","type":"vmess","server":"104.17.221.248","port":80,"uuid":"e6543319-0574-42ac-b778-1c4325d626f5","alterId":0,"cipher":"auto","network":"ws","servername":"chunchuan.kejixiaoqi666.store","http-opts":{},"h2-opts":{},"skip-cert-verify":true,"ws-opts":{"path":"/","headers":{"HOST":"chunchuan.kejixiaoqi666.store"}}}
@@ -38,3 +39,4 @@ proxies:
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-YouTube-38.91.101.221:7307","type":"ss","server":"38.91.101.221","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
   - {"name":"SS-立陶宛\u003e荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-45.87.175.157:8080","type":"ss","server":"45.87.175.157","port":8080,"password":"cvII85TrW6n0OGyfpHVS1u","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.91.101.221:7306","type":"ss","server":"38.91.101.221","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+  - {"name":"SSR-美国-ChatGPT-TikTok-YouTube-54.188.41.183:443","type":"ssr","server":"54.188.41.183","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
