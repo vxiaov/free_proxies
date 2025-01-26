@@ -50,3 +50,4 @@ proxies:
   - {"name":"SS-英国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-212.102.53.197:443","type":"ss","server":"212.102.53.197","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
   - {"name":"SS-美国-ChatGPT-TikTok-YouTube-154.3.8.151:30067","type":"ss","server":"154.3.8.151","port":30067,"password":"iUB0923RBA","cipher":"aes-256-gcm"}
   - {"name":"SS-荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-213.109.147.242:62685","type":"ss","server":"213.109.147.242","port":62685,"password":"VpKABcOpNNA0l5G2AVOmw8","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"VMESS-未知\u003e法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-104.17.148.22:80","type":"vmess","server":"104.17.148.22","port":80,"uuid":"368bf030-db51-11ef-b336-205c6d5f5d78","alterId":0,"cipher":"auto","network":"ws","servername":"eu-2.hihu.net","http-opts":{},"h2-opts":{},"skip-cert-verify":true,"ws-opts":{"path":"/xa62zvle","headers":{"HOST":"eu-2.hihu.net"}}}
