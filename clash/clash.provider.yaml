@@ -49,7 +49,7 @@ proxies:
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-35.87.38.141:443","type":"ssr","server":"35.87.38.141","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-54.187.27.197:443","type":"ssr","server":"54.187.27.197","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-184.170.241.194:443","type":"ssr","server":"184.170.241.194","port":443,"password":"shadowsocks","cipher":"aes-128-cfb","protocol":"origin","obfs":"plain"}
-  - {"name":"SS-英国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-78.129.140.11:443","type":"ss","server":"78.129.140.11","port":443,"password":"KOFX69z7jmO32SZ247TazP","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"SSR-美国-ChatGPT-TikTok-YouTube-54.189.160.123:443","type":"ssr","server":"54.189.160.123","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SS-法国-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-51.158.252.130:443","type":"ss","server":"51.158.252.130","port":443,"password":"BpoCLifpEBoWizdIQfZ4MI","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-54.244.34.53:443","type":"ssr","server":"54.244.34.53","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-35.92.44.190:443","type":"ssr","server":"35.92.44.190","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
