@@ -54,3 +54,4 @@ proxies:
   - {"name":"SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:6697","type":"ss","server":"54.37.18.75","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
   - {"name":"VMESS-未知\u003e美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-172.67.146.154:8880","type":"vmess","server":"172.67.146.154","port":8880,"uuid":"1c1cb7fe-a929-4e47-b292-4073b63d2d4b","alterId":0,"cipher":"auto","network":"ws","servername":"lamusa.daozhang.site","http-opts":{},"h2-opts":{},"skip-cert-verify":true,"ws-opts":{"path":"/","headers":{"HOST":"lamusa.daozhang.site"}}}
   - {"name":"SS-法国-NF解锁英国自制剧-ChatGPT-YouTube-54.37.18.75:9090","type":"ss","server":"54.37.18.75","port":9090,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+  - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-35.94.24.233:443","type":"ssr","server":"35.94.24.233","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
