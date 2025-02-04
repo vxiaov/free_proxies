@@ -33,4 +33,3 @@ proxies:
   - {"name":"SSR-美国-44.246.37.239:443","type":"ssr","server":"44.246.37.239","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-172.233.128.126:1866","type":"ss","server":"172.233.128.126","port":1866,"password":"oXGp1+ihlfKg826H","cipher":"chacha20-ietf-poly1305"}
   - {"name":"VMESS-未知\u003e瑞典-NF解锁瑞典自制剧-ChatGPT-TikTok-se.899994.xyz:443","type":"vmess","server":"se.899994.xyz","port":443,"uuid":"a0605527-28e4-449c-80ee-5642cc16a8af","alterId":0,"cipher":"auto","network":"ws","servername":"se.899994.xyz","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true,"ws-opts":{"path":"/index","headers":{"HOST":"se.899994.xyz"}}}
-  - {"name":"SSR-美国-54.187.27.197:443","type":"ssr","server":"54.187.27.197","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
