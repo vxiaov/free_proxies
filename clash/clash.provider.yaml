@@ -69,7 +69,6 @@ proxies:
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-54.190.43.178:443","type":"ssr","server":"54.190.43.178","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SS-立陶宛\u003e荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-45.87.175.92:8080","type":"ss","server":"45.87.175.92","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-荷兰-NF解锁荷兰自制剧-ChatGPT-YouTube-193.29.139.189:8080","type":"ss","server":"193.29.139.189","port":8080,"password":"cvII85TrW6n0OGyfpHVS1u","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-35.95.26.187:443","type":"ssr","server":"35.95.26.187","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-23.157.40.115:5500","type":"ss","server":"23.157.40.115","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-23.157.40.115:7002","type":"ss","server":"23.157.40.115","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-YouTube-23.157.40.115:2376","type":"ss","server":"23.157.40.115","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
@@ -77,3 +76,5 @@ proxies:
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-23.157.40.115:5000","type":"ss","server":"23.157.40.115","port":5000,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
   - {"name":"SS-奥地利-NF解锁奥地利自制剧-ChatGPT-TikTok-YouTube-95.164.36.59:8388","type":"ss","server":"95.164.36.59","port":8388,"password":"OWY4ODBm","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-YouTube-23.157.40.115:6679","type":"ss","server":"23.157.40.115","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+  - {"name":"VMESS-德国-NF解锁奥地利地区非自制剧-ChatGPT-TikTok-185.121.134.12:20315","type":"vmess","server":"185.121.134.12","port":20315,"uuid":"94df8643-9500-49eb-9d30-dc1f19720d9c","alterId":0,"cipher":"auto","network":"ws","http-opts":{},"h2-opts":{},"skip-cert-verify":true,"ws-opts":{"path":"/"}}
+  - {"name":"VMESS-德国-NF解锁德国自制剧-ChatGPT-213.136.83.240:56656","type":"vmess","server":"213.136.83.240","port":56656,"uuid":"bc97f674-c578-4940-9234-0a1da46041b0","alterId":0,"cipher":"auto","network":"ws","http-opts":{},"h2-opts":{},"skip-cert-verify":true,"ws-opts":{"path":"/vmess-argo?ed=2048"}}
