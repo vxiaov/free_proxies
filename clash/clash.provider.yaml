@@ -46,5 +46,4 @@ proxies:
   - {"name":"SSR-美国-35.163.107.154:443","type":"ssr","server":"35.163.107.154","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"VMESS-未知\u003e日本-NF解锁日本自制剧-ChatGPT-TikTok-YouTube-tokyo.899994.xyz:443","type":"vmess","server":"tokyo.899994.xyz","port":443,"uuid":"a0605527-28e4-449c-80ee-5642cc16a8af","alterId":0,"cipher":"auto","network":"ws","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true,"ws-opts":{"path":"/index"}}
   - {"name":"SSR-美国-ChatGPT-YouTube-34.221.171.18:443","type":"ssr","server":"34.221.171.18","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-  - {"name":"SSR-美国-NF解锁自制剧-TikTok-34.221.167.203:443","type":"ssr","server":"34.221.167.203","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-54.200.164.45:443","type":"ssr","server":"54.200.164.45","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
