@@ -38,7 +38,6 @@ proxies:
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-34.221.182.25:443","type":"ssr","server":"34.221.182.25","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-34.217.211.139:443","type":"ssr","server":"34.217.211.139","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-52.11.187.58:443","type":"ssr","server":"52.11.187.58","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-  - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-34.216.74.146:443","type":"ssr","server":"34.216.74.146","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-54.212.222.229:443","type":"ssr","server":"54.212.222.229","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.114.121.248:5001","type":"ss","server":"38.114.121.248","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁香港自制剧-ChatGPT-TikTok-YouTube-154.3.8.151:30067","type":"ss","server":"154.3.8.151","port":30067,"password":"iUB0923RBA","cipher":"aes-256-gcm"}
@@ -51,4 +50,3 @@ proxies:
   - {"name":"SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-185.234.64.35:8388","type":"ss","server":"185.234.64.35","port":8388,"password":"YTNjNDY5","cipher":"chacha20-ietf-poly1305"}
   - {"name":"VMESS-未知\u003e新加坡-NF解锁新加坡自制剧-ChatGPT-TikTok-YouTube-104.19.48.236:80","type":"vmess","server":"104.19.48.236","port":80,"uuid":"e6543319-0574-42ac-b778-1c4325d626f5","alterId":0,"cipher":"auto","network":"ws","servername":"chunchuan.kejixiaoqi666.store","http-opts":{},"h2-opts":{},"skip-cert-verify":true,"ws-opts":{"path":"/","headers":{"HOST":"chunchuan.kejixiaoqi666.store"}}}
   - {"name":"VMESS-未知\u003e巴西-NF解锁巴西自制剧-ChatGPT-TikTok-YouTube-br.899994.xyz:443","type":"vmess","server":"br.899994.xyz","port":443,"uuid":"a0605527-28e4-449c-80ee-5642cc16a8af","alterId":0,"cipher":"auto","network":"ws","servername":"br.899994.xyz","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true,"ws-opts":{"path":"/index","headers":{"HOST":"br.899994.xyz"}}}
-  - {"name":"SS-美国-NF解锁自制剧-212.18.104.228:17889","type":"ss","server":"212.18.104.228","port":17889,"password":"Jg1jnTo8iOG1wEW4f06tGk","cipher":"chacha20-ietf-poly1305"}
