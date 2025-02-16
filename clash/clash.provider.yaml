@@ -6,7 +6,6 @@ proxies:
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-172.232.171.192:1866","type":"ss","server":"172.232.171.192","port":1866,"password":"oXGp1+ihlfKg826H","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-英国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-64.176.184.129:1866","type":"ss","server":"64.176.184.129","port":1866,"password":"oXGp1+ihlfKg826H","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-172.233.128.126:1866","type":"ss","server":"172.233.128.126","port":1866,"password":"oXGp1+ihlfKg826H","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"SS-立陶宛\u003e荷兰-NF解锁荷兰自制剧-ChatGPT-YouTube-45.87.175.58:8080","type":"ss","server":"45.87.175.58","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
   - {"name":"VMESS-未知\u003e美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-lax2.ibgfw.top:8443","type":"vmess","server":"lax2.ibgfw.top","port":8443,"uuid":"e88b85c6-93b4-47f6-b3fb-2c55dcb1289f","alterId":0,"cipher":"auto","network":"ws","servername":"lax2.ibgfw.top","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true,"ws-opts":{"path":"/dyajvws","headers":{"HOST":"lax2.ibgfw.top"}}}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.207.155.64:1633","type":"ss","server":"104.207.155.64","port":1633,"password":"o_A7inN1yqeWtOTL","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-直布罗陀-NF解锁德国自制剧-ChatGPT-TikTok-YouTube-95.164.68.37:8388","type":"ss","server":"95.164.68.37","port":8388,"password":"OTBkYmFk","cipher":"chacha20-ietf-poly1305"}
@@ -21,7 +20,6 @@ proxies:
   - {"name":"VMESS-未知\u003e法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-172.66.46.216:2052","type":"vmess","server":"172.66.46.216","port":2052,"uuid":"fcc685c0-e718-11ef-b933-205c6d5f5d78","alterId":0,"cipher":"auto","network":"ws","servername":"eu-2.hihu.net","http-opts":{},"h2-opts":{},"skip-cert-verify":true,"ws-opts":{"path":"/ek147r26/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560","headers":{"HOST":"eu-2.hihu.net"}}}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-23.185.248.14:17004","type":"ss","server":"23.185.248.14","port":17004,"password":"IC4APDY4ATHX890I","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-23.185.248.15:17005","type":"ss","server":"23.185.248.15","port":17005,"password":"X1GBLWQ3U4ULO6XV","cipher":"aes-256-gcm"}
-  - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.91.107.72:5500","type":"ss","server":"38.91.107.72","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.101.222:25543","type":"ss","server":"150.241.101.222","port":25543,"password":"8jkT1FGEowzjt93cgZgkBK","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.91.107.43:7307","type":"ss","server":"38.91.107.43","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
   - {"name":"VMESS-未知\u003e保加利亚-NF解锁瑞典地区非自制剧-ChatGPT-TikTok-YouTube-esna.twn24.ir:8443","type":"vmess","server":"esna.twn24.ir","port":8443,"uuid":"211e44d7-5a3f-4b0e-ad36-d8136759b77f","alterId":0,"cipher":"auto","network":"ws","servername":"esna.twn24.ir","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true,"ws-opts":{"path":"/?ed=2048","headers":{"HOST":"esna.twn24.ir"}}}
@@ -29,4 +27,3 @@ proxies:
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-YouTube-23.185.248.16:17006","type":"ss","server":"23.185.248.16","port":17006,"password":"B0UPGL2IUSB0UV4B","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-23.185.248.17:17007","type":"ss","server":"23.185.248.17","port":17007,"password":"0U17L4LTFDK38Y1J","cipher":"aes-256-gcm"}
   - {"name":"VMESS-未知\u003e美国-gquyvefk.whmvmkwuey.store:443","type":"vmess","server":"gquyvefk.whmvmkwuey.store","port":443,"uuid":"1cc59a3a-9625-40f7-b0e6-e233286ae82d","alterId":0,"cipher":"auto","network":"ws","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true,"ws-opts":{"path":"/"}}
-  - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.143.66.64:5601","type":"ss","server":"38.143.66.64","port":5601,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
