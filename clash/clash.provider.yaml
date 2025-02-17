@@ -28,7 +28,6 @@ proxies:
   - {"name":"SSR-美国-TikTok-YouTube-34.220.100.94:443","type":"ssr","server":"34.220.100.94","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-23.185.248.18:17008","type":"ss","server":"23.185.248.18","port":17008,"password":"DA30RDLW91YDLDN2","cipher":"aes-256-gcm"}
   - {"name":"SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-185.231.205.179:8388","type":"ss","server":"185.231.205.179","port":8388,"password":"OTVlMzcy","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-185.234.64.35:8388","type":"ss","server":"185.234.64.35","port":8388,"password":"YTNjNDY5","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-美国-NF解锁香港自制剧-ChatGPT-TikTok-YouTube-154.3.8.151:30067","type":"ss","server":"154.3.8.151","port":30067,"password":"iUB0923RBA","cipher":"aes-256-gcm"}
   - {"name":"SSR-丹麦-NF解锁丹麦自制剧-ChatGPT-TikTok-YouTube-185.186.79.53:989","type":"ssr","server":"185.186.79.53","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-英国-NF解锁加拿大自制剧-ChatGPT-TikTok-YouTube-ssca.irundns.net:443","type":"ssr","server":"ssca.irundns.net","port":443,"password":"$$Turb0VPN$$","cipher":"aes-128-cfb","protocol":"auth_aes128_md5","obfs":"http_post"}
@@ -38,3 +37,4 @@ proxies:
   - {"name":"SS-爱尔兰-NF解锁爱尔兰自制剧-ChatGPT-TikTok-YouTube-52.169.50.245:37500","type":"ss","server":"52.169.50.245","port":37500,"password":"N9aY0pE81YY0eDpZGKGDk4","cipher":"chacha20-ietf-poly1305"}
   - {"name":"VMESS-未知\u003e美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-mods-destruction-academy-gear.trycloudflare.com:443","type":"vmess","server":"mods-destruction-academy-gear.trycloudflare.com","port":443,"uuid":"ffffffff-ffff-ffff-ffff-ffffffffffff","alterId":0,"cipher":"auto","network":"ws","servername":"mods-destruction-academy-gear.trycloudflare.com","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true,"ws-opts":{"path":"/","headers":{"HOST":"mods-destruction-academy-gear.trycloudflare.com"}}}
   - {"name":"SS-英国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-uk-dc1.yangon.club:443","type":"ss","server":"uk-dc1.yangon.club","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
+  - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-34.221.167.203:443","type":"ssr","server":"34.221.167.203","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
