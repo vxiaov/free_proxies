@@ -22,10 +22,10 @@ proxies:
   - {"name":"VMESS-未知\u003e保加利亚-NF解锁瑞典地区非自制剧-ChatGPT-TikTok-YouTube-esna.twn24.ir:8443","type":"vmess","server":"esna.twn24.ir","port":8443,"uuid":"211e44d7-5a3f-4b0e-ad36-d8136759b77f","alterId":0,"cipher":"auto","network":"ws","servername":"esna.twn24.ir","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true,"ws-opts":{"path":"/?ed=2048","headers":{"HOST":"esna.twn24.ir"}}}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-23.185.248.11:17001","type":"ss","server":"23.185.248.11","port":17001,"password":"Z7ZSQR3OI9JVRA6N","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-YouTube-23.185.248.16:17006","type":"ss","server":"23.185.248.16","port":17006,"password":"B0UPGL2IUSB0UV4B","cipher":"aes-256-gcm"}
+  - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-23.185.248.17:17007","type":"ss","server":"23.185.248.17","port":17007,"password":"0U17L4LTFDK38Y1J","cipher":"aes-256-gcm"}
   - {"name":"SSR-德国-NF解锁德国自制剧-ChatGPT-TikTok-YouTube-193.108.119.230:8080","type":"ssr","server":"193.108.119.230","port":8080,"password":"14fFPrbezE3HDZzsMOr6","cipher":"rc4-md5","protocol":"origin","obfs":"plain"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-107.175.96.74:16899","type":"ss","server":"107.175.96.74","port":16899,"password":"Yc2CtrIz8L","cipher":"aes-128-gcm"}
   - {"name":"SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-185.231.205.179:8388","type":"ss","server":"185.231.205.179","port":8388,"password":"OTVlMzcy","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-185.234.64.35:8388","type":"ss","server":"185.234.64.35","port":8388,"password":"YTNjNDY5","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-美国-NF解锁香港自制剧-ChatGPT-TikTok-YouTube-154.3.8.151:30067","type":"ss","server":"154.3.8.151","port":30067,"password":"iUB0923RBA","cipher":"aes-256-gcm"}
   - {"name":"SSR-丹麦-NF解锁丹麦自制剧-ChatGPT-TikTok-YouTube-185.186.79.53:989","type":"ssr","server":"185.186.79.53","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-英国-NF解锁加拿大自制剧-ChatGPT-TikTok-YouTube-ssca.irundns.net:443","type":"ssr","server":"ssca.irundns.net","port":443,"password":"$$Turb0VPN$$","cipher":"aes-128-cfb","protocol":"auth_aes128_md5","obfs":"http_post"}
