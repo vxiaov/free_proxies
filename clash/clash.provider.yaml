@@ -24,7 +24,6 @@ proxies:
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-35.94.110.89:443","type":"ssr","server":"35.94.110.89","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-54.189.149.15:443","type":"ssr","server":"54.189.149.15","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-35.87.206.35:443","type":"ssr","server":"35.87.206.35","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-  - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-34.216.193.190:443","type":"ssr","server":"34.216.193.190","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-35.95.19.164:443","type":"ssr","server":"35.95.19.164","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-35.94.23.23:443","type":"ssr","server":"35.94.23.23","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SS-荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-213.109.147.242:62685","type":"ss","server":"213.109.147.242","port":62685,"password":"VpKABcOpNNA0l5G2AVOmw8","cipher":"chacha20-ietf-poly1305"}
@@ -42,4 +41,3 @@ proxies:
   - {"name":"SSR-英国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-146.70.61.18:8080","type":"ssr","server":"146.70.61.18","port":8080,"password":"14fFPrbezE3HDZzsMOr6","cipher":"rc4-md5","protocol":"origin","obfs":"plain"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-23.150.152.41:5601","type":"ss","server":"23.150.152.41","port":5601,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-23.150.152.41:5000","type":"ss","server":"23.150.152.41","port":5000,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
-  - {"name":"SSR-美国-NF解锁自制剧-TikTok-54.218.121.242:443","type":"ssr","server":"54.218.121.242","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
