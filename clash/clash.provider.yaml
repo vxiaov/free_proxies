@@ -41,4 +41,3 @@ proxies:
   - {"name":"SS-英国-NF解锁英国自制剧-YouTube-64.176.184.129:1866","type":"ss","server":"64.176.184.129","port":1866,"password":"oXGp1+ihlfKg826H","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SSR-美国-TikTok-YouTube-52.34.200.48:443","type":"ssr","server":"52.34.200.48","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-52.33.5.226:443","type":"ssr","server":"52.33.5.226","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-  - {"name":"SSR-美国-NF解锁自制剧-TikTok-34.211.97.239:443","type":"ssr","server":"34.211.97.239","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
