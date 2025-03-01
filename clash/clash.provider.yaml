@@ -4,6 +4,7 @@ proxies:
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-172.232.171.192:1866","type":"ss","server":"172.232.171.192","port":1866,"password":"oXGp1+ihlfKg826H","cipher":"chacha20-ietf-poly1305"}
   - {"name":"VMESS-未知\u003e美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-lax2.ibgfw.top:8443","type":"vmess","server":"lax2.ibgfw.top","port":8443,"uuid":"e88b85c6-93b4-47f6-b3fb-2c55dcb1289f","alterId":0,"cipher":"auto","network":"ws","servername":"lax2.ibgfw.top","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true,"ws-opts":{"path":"/dyajvws","headers":{"HOST":"lax2.ibgfw.top"}}}
   - {"name":"VMESS-未知\u003e美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-uswuxian.pai50288.uk:8443","type":"vmess","server":"uswuxian.pai50288.uk","port":8443,"uuid":"c313606f-98c2-4d7b-ba74-48b94f61b11d","alterId":0,"cipher":"auto","network":"ws","servername":"uswuxian.pai50288.uk","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true,"ws-opts":{"path":"/","headers":{"HOST":"uswuxian.pai50288.uk"}}}
+  - {"name":"SS-斯洛文尼亚-NF解锁德国地区非自制剧-ChatGPT-TikTok-YouTube-45.144.54.156:51587","type":"ss","server":"45.144.54.156","port":51587,"password":"PPXb8J2ciDybokWl7kxKab","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-23.185.248.13:17003","type":"ss","server":"23.185.248.13","port":17003,"password":"LKG8G8VL60RSB59P","cipher":"aes-256-gcm"}
   - {"name":"SS-荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-213.109.147.242:62685","type":"ss","server":"213.109.147.242","port":62685,"password":"VpKABcOpNNA0l5G2AVOmw8","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-美国-ChatGPT-TikTok-YouTube-23.185.248.17:17007","type":"ss","server":"23.185.248.17","port":17007,"password":"Z7C08JB1HBMWQHVP","cipher":"aes-256-gcm"}
@@ -19,4 +20,3 @@ proxies:
   - {"name":"SS-英国-64.176.184.129:1866","type":"ss","server":"64.176.184.129","port":1866,"password":"oXGp1+ihlfKg826H","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-英国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-78.129.140.11:443","type":"ss","server":"78.129.140.11","port":443,"password":"7kxlu80MRzBQ74VB0W20k7","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SSR-美国-NF解锁自制剧-54.190.1.125:443","type":"ssr","server":"54.190.1.125","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
-  - {"name":"SSR-美国\u003e塞舌尔-NF解锁自制剧-137.175.113.215:8388","type":"ssr","server":"137.175.113.215","port":8388,"password":"asd123456","cipher":"chacha20-ietf","protocol":"origin","obfs":"plain"}
