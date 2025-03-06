@@ -31,5 +31,5 @@ proxies:
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-103.35.189.50:8388","type":"ss","server":"103.35.189.50","port":8388,"password":"ZGY1N","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-69.50.93.80:3306","type":"ss","server":"69.50.93.80","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-69.50.93.80:5498","type":"ss","server":"69.50.93.80","port":5498,"password":"lGqs95QkFHo2NV","cipher":"aes-256-gcm"}
-  - {"name":"SSR-美国-NF解锁自制剧-TikTok-YouTube-34.217.73.31:443","type":"ssr","server":"34.217.73.31","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-美国-NF解锁自制剧-YouTube-35.86.89.247:443","type":"ssr","server":"35.86.89.247","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+  - {"name":"SSR-美国-54.185.211.74:443","type":"ssr","server":"54.185.211.74","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
