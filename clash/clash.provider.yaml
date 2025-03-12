@@ -22,4 +22,3 @@ proxies:
   - {"name":"SS-瑞典-NF解锁瑞典自制剧-ChatGPT-46.246.98.155:44013","type":"ss","server":"46.246.98.155","port":44013,"password":"UDcjYQ6Z6AIWxViZpqyOmO","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-213.109.147.242:62685","type":"ss","server":"213.109.147.242","port":62685,"password":"VpKABcOpNNA0l5G2AVOmw8","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-德国-5.252.25.61:8080","type":"ss","server":"5.252.25.61","port":8080,"password":"d0fa3a9b-2115-4cc0-a8f5-7f4f7caf6ec1","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"VMESS-美国-207.90.237.96:23008","type":"vmess","server":"207.90.237.96","port":23008,"uuid":"4651cf71-e87e-41ef-8ed2-61a7f409e7d3","alterId":0,"cipher":"auto","network":"ws","http-opts":{},"h2-opts":{},"skip-cert-verify":true,"ws-opts":{"path":"/"}}
