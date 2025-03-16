@@ -50,7 +50,6 @@ proxies:
   - {"name":"SS-瑞典-ChatGPT-46.246.98.155:44013","type":"ss","server":"46.246.98.155","port":44013,"password":"UDcjYQ6Z6AIWxViZpqyOmO","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-英国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-57.128.190.214:48977","type":"ss","server":"57.128.190.214","port":48977,"password":"99eedf8e9170c8a4","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-184.170.241.194:443","type":"ssr","server":"184.170.241.194","port":443,"password":"shadowsocks","cipher":"aes-128-cfb","protocol":"origin","obfs":"plain"}
-  - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-18.236.137.219:443","type":"ssr","server":"18.236.137.219","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SS-墨西哥-NF解锁墨西哥自制剧-ChatGPT-TikTok-YouTube-89.223.88.145:43190","type":"ss","server":"89.223.88.145","port":43190,"password":"f9ff498b90334cea","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-54.202.63.169:443","type":"ssr","server":"54.202.63.169","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SSR-美国-ChatGPT-TikTok-YouTube-35.86.111.233:443","type":"ssr","server":"35.86.111.233","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
