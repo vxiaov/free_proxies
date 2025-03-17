@@ -31,7 +31,6 @@ proxies:
   - {"name":"SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-57.130.11.84:11202","type":"ss","server":"57.130.11.84","port":11202,"password":"602e2068c047d750","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-107.175.96.74:16899","type":"ss","server":"107.175.96.74","port":16899,"password":"Yc2CtrIz8L","cipher":"aes-128-gcm"}
   - {"name":"SS-加拿大-NF解锁自制剧-ChatGPT-TikTok-YouTube-23.162.56.206:11201","type":"ss","server":"23.162.56.206","port":11201,"password":"620c5b5108120a72","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"SS-德国-5.252.25.61:8080","type":"ss","server":"5.252.25.61","port":8080,"password":"d0fa3a9b-2115-4cc0-a8f5-7f4f7caf6ec1","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-瑞典-NF解锁瑞典自制剧-ChatGPT-TikTok-YouTube-46.246.98.155:44013","type":"ss","server":"46.246.98.155","port":44013,"password":"UDcjYQ6Z6AIWxViZpqyOmO","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-直布罗陀-TikTok-95.164.68.37:1443","type":"ss","server":"95.164.68.37","port":1443,"password":"ZDljYmNh","cipher":"chacha20-ietf-poly1305"}
   - {"name":"VMESS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-ny1.bulkcash.top:41507","type":"vmess","server":"ny1.bulkcash.top","port":41507,"uuid":"695ac0a3-406a-41d7-83c5-5af8c39d3bec","alterId":5,"cipher":"auto","network":"ws","servername":"ny1.bulkcash.top","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true,"ws-opts":{"path":"/","headers":{"HOST":"ny1.bulkcash.top"}}}
