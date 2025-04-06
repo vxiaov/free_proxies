@@ -31,3 +31,6 @@ proxies:
   - {"name":"VMESS-未知\u003e德国-fk2-bash.890617.xyz:2096","type":"vmess","server":"fk2-bash.890617.xyz","port":2096,"uuid":"feddc326-da70-4fab-95a9-8f98be6da633","alterId":0,"cipher":"auto","network":"ws","servername":"fk2-bash.890617.xyz","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true,"ws-opts":{"path":"/fk2-1","headers":{"HOST":"fk2-bash.890617.xyz"}}}
   - {"name":"SS-英国-NF解锁自制剧-ChatGPT-206.245.211.15:19005","type":"ss","server":"206.245.211.15","port":19005,"password":"65ZLPN9MI8OTH07C","cipher":"aes-256-gcm"}
   - {"name":"SS-英国-NF解锁自制剧-ChatGPT-206.245.211.12:19002","type":"ss","server":"206.245.211.12","port":19002,"password":"HW9RL3ZGBLLSO16R","cipher":"aes-256-gcm"}
+  - {"name":"SS-塞舌尔\u003e新加坡-154.83.90.11:21114","type":"ss","server":"154.83.90.11","port":21114,"password":"9acfc574-acc3-4c2b-ab3b-491d43a6eb83","cipher":"aes-256-gcm"}
+  - {"name":"SS-塞舌尔\u003e新加坡-NF解锁新加坡自制剧-154.83.90.11:21115","type":"ss","server":"154.83.90.11","port":21115,"password":"9acfc574-acc3-4c2b-ab3b-491d43a6eb83","cipher":"aes-256-gcm"}
+  - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-35.94.124.230:443","type":"ssr","server":"35.94.124.230","port":443,"password":"amazonskr05","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
