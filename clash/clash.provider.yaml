@@ -23,3 +23,4 @@ proxies:
   - {"name":"SS-瑞典-NF解锁瑞典地区非自制剧-TikTok-YouTube-46.246.98.155:44013","type":"ss","server":"46.246.98.155","port":44013,"password":"UDcjYQ6Z6AIWxViZpqyOmO","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-YouTube-107.175.96.74:16899","type":"ss","server":"107.175.96.74","port":16899,"password":"Yc2CtrIz8L","cipher":"aes-128-gcm"}
   - {"name":"SS-荷兰-NF解锁香港地区非自制剧-ChatGPT-TikTok-YouTube-85.209.158.11:8388","type":"ss","server":"85.209.158.11","port":8388,"password":"MWYyN","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"VMESS-未知\u003e塞舌尔-NF解锁香港地区非自制剧-ChatGPT-YouTube-hk2.lrzdx.uk:443","type":"vmess","server":"hk2.lrzdx.uk","port":443,"uuid":"db69d5bc-d36c-4903-f471-74b98c5cefe5","alterId":0,"cipher":"auto","network":"ws","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true,"ws-opts":{"path":"/register"}}
