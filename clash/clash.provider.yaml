@@ -23,3 +23,4 @@ proxies:
   - {"name":"VMESS-未知\u003e新加坡-NF解锁新加坡地区非自制剧-ChatGPT-TikTok-YouTube-v2.emoyes.top:2053","type":"vmess","server":"v2.emoyes.top","port":2053,"uuid":"a78fc14e-4e8b-4fc0-8cab-86fd81c583ca","alterId":0,"cipher":"auto","network":"ws","servername":"v2.emoyes.top","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true,"ws-opts":{"path":"/","headers":{"HOST":"v2.emoyes.top"}}}
   - {"name":"SS-塞舌尔\u003e新加坡-YouTube-154.83.90.11:21114","type":"ss","server":"154.83.90.11","port":21114,"password":"9acfc574-acc3-4c2b-ab3b-491d43a6eb83","cipher":"aes-256-gcm"}
   - {"name":"SS-塞舌尔\u003e新加坡-NF解锁新加坡地区非自制剧-ChatGPT-TikTok-YouTube-154.83.90.11:21115","type":"ss","server":"154.83.90.11","port":21115,"password":"9acfc574-acc3-4c2b-ab3b-491d43a6eb83","cipher":"aes-256-gcm"}
+  - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-107.175.96.74:16899","type":"ss","server":"107.175.96.74","port":16899,"password":"Yc2CtrIz8L","cipher":"aes-128-gcm"}
