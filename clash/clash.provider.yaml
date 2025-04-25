@@ -15,4 +15,3 @@ proxies:
   - {"name":"SS-英国-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-85.234.65.100:11359","type":"ss","server":"85.234.65.100","port":11359,"password":"XaAIkJjp","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-44.204.173.8:443","type":"ss","server":"44.204.173.8","port":443,"password":"amazongreatvpn","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-34.219.82.5:443","type":"ss","server":"34.219.82.5","port":443,"password":"amazongreatvpn","cipher":"aes-256-gcm"}
-  - {"name":"SS-塞舌尔\u003e新加坡-NF解锁新加坡地区非自制剧-154.83.90.11:21114","type":"ss","server":"154.83.90.11","port":21114,"password":"9acfc574-acc3-4c2b-ab3b-491d43a6eb83","cipher":"aes-256-gcm"}
