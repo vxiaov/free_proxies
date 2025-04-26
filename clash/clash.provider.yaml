@@ -37,3 +37,6 @@ proxies:
   - {"name":"SS-塞舌尔\u003e新加坡-NF解锁新加坡地区非自制剧-ChatGPT-TikTok-YouTube-154.83.90.11:21114","type":"ss","server":"154.83.90.11","port":21114,"password":"9acfc574-acc3-4c2b-ab3b-491d43a6eb83","cipher":"aes-256-gcm"}
   - {"name":"SS-瑞典-NF解锁瑞典地区非自制剧-ChatGPT-TikTok-YouTube-13.48.143.91:5790","type":"ss","server":"13.48.143.91","port":5790,"password":"0pTM3CJb","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-195.123.240.26:29591","type":"ss","server":"195.123.240.26","port":29591,"password":"Frqd8v92","cipher":"aes-256-gcm"}
+  - {"name":"SS-爱尔兰-NF解锁爱尔兰地区非自制剧-ChatGPT-TikTok-YouTube-193.57.138.81:27082","type":"ss","server":"193.57.138.81","port":27082,"password":"YHRRtsm3X+x2mgl76yY9uidsOwnEe30/tyblQU/hGtU=","cipher":"aes-128-gcm"}
+  - {"name":"SS-美国-NF解锁香港地区非自制剧-ChatGPT-TikTok-YouTube-154.3.8.151:30067","type":"ss","server":"154.3.8.151","port":30067,"password":"iUB0923RBA","cipher":"aes-256-gcm"}
+  - {"name":"SS-荷兰-NF解锁香港地区非自制剧-ChatGPT-TikTok-YouTube-85.209.158.11:8388","type":"ss","server":"85.209.158.11","port":8388,"password":"MWYyN","cipher":"chacha20-ietf-poly1305"}
