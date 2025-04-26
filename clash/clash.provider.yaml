@@ -28,3 +28,6 @@ proxies:
   - {"name":"SS-瑞典-NF解锁瑞典地区非自制剧-ChatGPT-TikTok-YouTube-13.48.143.91:5790","type":"ss","server":"13.48.143.91","port":5790,"password":"0pTM3CJb","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-195.123.240.26:29591","type":"ss","server":"195.123.240.26","port":29591,"password":"Frqd8v92","cipher":"aes-256-gcm"}
   - {"name":"SS-巴勒斯坦-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-212.192.2.202:20008","type":"ss","server":"212.192.2.202","port":20008,"password":"JtLTCxf6","cipher":"aes-256-gcm"}
+  - {"name":"VMESS-立陶宛-NF解锁自制剧-ChatGPT-TikTok-YouTube-xcf037.facai2024.com:443","type":"vmess","server":"xcf037.facai2024.com","port":443,"uuid":"d9863037-0463-4615-e972-36ba9662d1e9","alterId":0,"cipher":"auto","network":"ws","servername":"xcf037.facai2024.com","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true,"ws-opts":{"path":"/d9863037","headers":{"HOST":"xcf037.facai2024.com"}}}
+  - {"name":"SS-荷兰-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-212.34.150.176:4199","type":"ss","server":"212.34.150.176","port":4199,"password":"gpW0ffUApVv0u5q1NwGHAX","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"SS-西班牙-NF解锁西班牙地区非自制剧-ChatGPT-TikTok-YouTube-92.38.171.215:31348","type":"ss","server":"92.38.171.215","port":31348,"password":"0RsrcFJ1vOsWEqg3P55hvaacKfuShT0cc1h0t8AD0NA8u1uR","cipher":"chacha20-ietf-poly1305"}
