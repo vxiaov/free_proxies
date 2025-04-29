@@ -39,6 +39,5 @@ proxies:
   - {"name":"SS-美国-NF解锁香港地区非自制剧-ChatGPT-TikTok-YouTube-154.3.8.151:30067","type":"ss","server":"154.3.8.151","port":30067,"password":"iUB0923RBA","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-34.215.118.253:27826","type":"ss","server":"34.215.118.253","port":27826,"password":"FnUBfINL","cipher":"aes-256-gcm"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-18.190.62.192:14743","type":"ss","server":"18.190.62.192","port":14743,"password":"JLMk9bhp","cipher":"aes-256-gcm"}
-  - {"name":"SS-爱尔兰-NF解锁爱尔兰地区非自制剧-ChatGPT-TikTok-YouTube-193.57.138.81:27082","type":"ss","server":"193.57.138.81","port":27082,"password":"YHRRtsm3X+x2mgl76yY9uidsOwnEe30/tyblQU/hGtU=","cipher":"aes-128-gcm"}
   - {"name":"VMESS-未知\u003e塞舌尔-NF解锁德国地区非自制剧-ChatGPT-TikTok-YouTube-v33.emoyes.top:443","type":"vmess","server":"v33.emoyes.top","port":443,"uuid":"08b24d8d-10ab-4c5a-990e-4e0e194870af","alterId":0,"cipher":"auto","network":"ws","servername":"v33.emoyes.top","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true,"ws-opts":{"path":"/","headers":{"HOST":"v33.emoyes.top"}}}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-3.218.100.218:15802","type":"ss","server":"3.218.100.218","port":15802,"password":"omoa8ufq","cipher":"aes-256-gcm"}
