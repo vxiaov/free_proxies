@@ -27,7 +27,6 @@ proxies:
   - {"name":"SS-英国-NF解锁英国地区非自制剧-ChatGPT-TikTok-YouTube-57.128.190.238:18992","type":"ss","server":"57.128.190.238","port":18992,"password":"b20ae8db3d278526","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-135.148.11.54:1080","type":"ss","server":"135.148.11.54","port":1080,"password":"dfHNk3LY1mdGH39zA2X37g","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-5.34.178.225:19360","type":"ss","server":"5.34.178.225","port":19360,"password":"QiuC2UiY","cipher":"aes-256-gcm"}
-  - {"name":"SS-美国-NF解锁香港地区非自制剧-ChatGPT-TikTok-YouTube-154.3.8.151:30067","type":"ss","server":"154.3.8.151","port":30067,"password":"iUB0923RBA","cipher":"aes-256-gcm"}
   - {"name":"SS-加拿大-NF解锁加拿大地区非自制剧-ChatGPT-TikTok-YouTube-147.45.177.65:443","type":"ss","server":"147.45.177.65","port":443,"password":"VekzIVJwbk1f","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-英国-NF解锁英国地区非自制剧-ChatGPT-TikTok-YouTube-57.128.190.212:46264","type":"ss","server":"57.128.190.212","port":46264,"password":"0c4f81a78eb123dd","cipher":"chacha20-ietf-poly1305"}
   - {"name":"VMESS-未知\u003e塞舌尔-NF解锁香港地区非自制剧-ChatGPT-hk2.lrzdx.uk:443","type":"vmess","server":"hk2.lrzdx.uk","port":443,"uuid":"db69d5bc-d36c-4903-f471-74b98c5cefe5","alterId":0,"cipher":"auto","network":"ws","servername":"hk2.lrzdx.uk","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true,"ws-opts":{"path":"/register","headers":{"HOST":"hk2.lrzdx.uk"}}}
