@@ -31,3 +31,4 @@ proxies:
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.110.1.146:7002","type":"ss","server":"38.110.1.146","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
   - {"name":"VMESS-未知\u003e香港-NF解锁自制剧-ChatGPT-YouTube-3fbc10.2ca52629-3a60.shop:80","type":"vmess","server":"3fbc10.2ca52629-3a60.shop","port":80,"uuid":"5be76fa5-3758-4282-bb54-b1efabd6ba3d","alterId":0,"cipher":"auto","network":"ws","servername":"hk02s.2ca52629-3a60.shop","http-opts":{},"h2-opts":{},"skip-cert-verify":true,"ws-opts":{"path":"/","headers":{"HOST":"hk02s.2ca52629-3a60.shop"}}}
   - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-38.110.1.146:8090","type":"ss","server":"38.110.1.146","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+  - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-34.218.249.8:443","type":"ssr","server":"34.218.249.8","port":443,"password":"awsps0501","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
