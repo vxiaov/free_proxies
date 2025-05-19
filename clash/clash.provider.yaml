@@ -24,4 +24,3 @@ proxies:
   - {"name":"SSR-加拿大-NF解锁加拿大自制剧-ChatGPT-TikTok-YouTube-79.127.233.170:989","type":"ssr","server":"79.127.233.170","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"SS-立陶宛\u003e荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-45.87.175.28:8080","type":"ss","server":"45.87.175.28","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-英国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-57.128.190.110:11703","type":"ss","server":"57.128.190.110","port":11703,"password":"d275849ebcfcec7e","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-107.151.182.253:8080","type":"ssr","server":"107.151.182.253","port":8080,"password":"14fFPrbezE3HDZzsMOr6","cipher":"rc4-md5","protocol":"origin","obfs":"plain"}
