@@ -24,3 +24,4 @@ proxies:
   - {"name":"SSR-英国-NF解锁加拿大地区非自制剧-ChatGPT-TikTok-YouTube-ssca.irundns.net:443","type":"ssr","server":"ssca.irundns.net","port":443,"password":"$$Turb0VPN$$","cipher":"aes-128-cfb","protocol":"auth_aes128_md5","obfs":"http_post"}
   - {"name":"SSR-英国-NF解锁英国地区非自制剧-ChatGPT-TikTok-YouTube-62.100.205.48:989","type":"ssr","server":"62.100.205.48","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
   - {"name":"VMESS-未知\u003e英国-NF解锁英国地区非自制剧-ChatGPT-TikTok-YouTube-tci2.tiamoci.us.kg:8080","type":"vmess","server":"tci2.tiamoci.us.kg","port":8080,"uuid":"b5e95f46-430c-4883-8712-4574591218b2","alterId":0,"cipher":"auto","network":"ws","http-opts":{},"h2-opts":{},"ws-opts":{"path":"/","headers":{"Host":"tci2.tiamoci.us.kg"}}}
+  - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.167.197.25:57456","type":"ss","server":"104.167.197.25","port":57456,"password":"360e21d21977dc11","cipher":"chacha20-ietf-poly1305"}
