@@ -29,5 +29,5 @@ proxies:
   - {"name":"SS-塞舌尔\u003e日本-NF解锁新加坡地区非自制剧-ChatGPT-TikTok-YouTube-154.83.90.11:52104","type":"ss","server":"154.83.90.11","port":52104,"password":"835ab5d2-df2e-4be5-8ef5-fefd932c2c46","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-德国-NF解锁德国地区非自制剧-ChatGPT-TikTok-YouTube-135.125.219.2:10942","type":"ss","server":"135.125.219.2","port":10942,"password":"78f2cc60404aee30","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-塞舌尔\u003e日本-NF解锁新加坡地区非自制剧-ChatGPT-TikTok-YouTube-154.83.90.11:51104","type":"ss","server":"154.83.90.11","port":51104,"password":"835ab5d2-df2e-4be5-8ef5-fefd932c2c46","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"SS-塞舌尔-NF解锁新加坡地区非自制剧-ChatGPT-TikTok-YouTube-154.83.90.11:52103","type":"ss","server":"154.83.90.11","port":52103,"password":"835ab5d2-df2e-4be5-8ef5-fefd932c2c46","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"SS-塞舌尔\u003e新加坡-NF解锁新加坡地区非自制剧-ChatGPT-TikTok-YouTube-154.83.90.11:52103","type":"ss","server":"154.83.90.11","port":52103,"password":"835ab5d2-df2e-4be5-8ef5-fefd932c2c46","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-塞舌尔\u003e香港-NF解锁新加坡地区非自制剧-ChatGPT-TikTok-YouTube-154.83.90.11:52101","type":"ss","server":"154.83.90.11","port":52101,"password":"835ab5d2-df2e-4be5-8ef5-fefd932c2c46","cipher":"chacha20-ietf-poly1305"}
