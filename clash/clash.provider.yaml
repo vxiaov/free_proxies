@@ -24,4 +24,3 @@ proxies:
   - {"name":"SS-德国-NF解锁德国地区非自制剧-ChatGPT-TikTok-YouTube-135.125.219.2:40112","type":"ss","server":"135.125.219.2","port":40112,"password":"7f3a34a7a6637c1b","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-德国-NF解锁德国地区非自制剧-ChatGPT-TikTok-YouTube-135.125.219.2:43199","type":"ss","server":"135.125.219.2","port":43199,"password":"1f694641b4ac527e","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-加拿大-NF解锁加拿大地区非自制剧-ChatGPT-TikTok-YouTube-79.127.233.170:990","type":"ss","server":"79.127.233.170","port":990,"password":"f8f7aCzcPKbsF8p3","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.167.197.25:57456","type":"ss","server":"104.167.197.25","port":57456,"password":"360e21d21977dc11","cipher":"chacha20-ietf-poly1305"}
