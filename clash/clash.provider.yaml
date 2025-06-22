@@ -19,6 +19,7 @@ proxies:
   - {"name":"SS-德国-NF解锁德国地区非自制剧-ChatGPT-TikTok-YouTube-194.87.71.220:2222","type":"ss","server":"194.87.71.220","port":2222,"password":"qscavF5UviIL-8V-E4raBA","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-德国-NF解锁德国地区非自制剧-ChatGPT-TikTok-YouTube-147.45.178.200:57456","type":"ss","server":"147.45.178.200","port":57456,"password":"a58fa62b4944ddbf","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-德国-NF解锁德国地区非自制剧-ChatGPT-TikTok-YouTube-194.87.71.228:2222","type":"ss","server":"194.87.71.228","port":2222,"password":"qscavF5UviIL-8V-E4raBA","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"SS-德国-NF解锁德国地区非自制剧-ChatGPT-TikTok-YouTube-194.87.71.223:2222","type":"ss","server":"194.87.71.223","port":2222,"password":"qscavF5UviIL-8V-E4raBA","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-德国-NF解锁德国地区非自制剧-ChatGPT-TikTok-YouTube-194.87.71.221:2222","type":"ss","server":"194.87.71.221","port":2222,"password":"qscavF5UviIL-8V-E4raBA","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-法国-NF解锁法国地区非自制剧-ChatGPT-TikTok-YouTube-81.19.137.222:57456","type":"ss","server":"81.19.137.222","port":57456,"password":"a58fa62b4944ddbf","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-英国-NF解锁英国地区非自制剧-ChatGPT-TikTok-YouTube-46.226.163.225:57456","type":"ss","server":"46.226.163.225","port":57456,"password":"c40641c1f89e7acb","cipher":"chacha20-ietf-poly1305"}
@@ -28,4 +29,3 @@ proxies:
   - {"name":"VMESS-未知\u003e德国-NF解锁德国地区非自制剧-ChatGPT-TikTok-YouTube-de01.sh-cloudflare.sbs:2096","type":"vmess","server":"de01.sh-cloudflare.sbs","port":2096,"uuid":"2eb19b98-500f-4d92-ab72-c767e7916502","alterId":0,"cipher":"auto","network":"ws","servername":"de01.sh-cloudflare.sbs","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true,"ws-opts":{"path":"/","headers":{"HOST":"de01.sh-cloudflare.sbs"}}}
   - {"name":"SS-法国-NF解锁法国地区非自制剧-ChatGPT-TikTok-YouTube-62.210.88.22:443","type":"ss","server":"62.210.88.22","port":443,"password":"Hv4n9ip8lO2pbI12DFPqCJ","cipher":"chacha20-ietf-poly1305"}
   - {"name":"SS-加拿大-NF解锁加拿大地区非自制剧-ChatGPT-TikTok-YouTube-79.127.233.170:990","type":"ss","server":"79.127.233.170","port":990,"password":"f8f7aCzcPKbsF8p3","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"SSR-英国-62.100.205.48:989","type":"ssr","server":"62.100.205.48","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
